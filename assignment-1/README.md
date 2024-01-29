@@ -1,5 +1,3 @@
-- Name of the assignment
-- Date of submission
-- Instructions on how to run the code
-- Instructions on how to run any tests (if applicable)
-- Instructions on how to run any notebook (if applicable)
+- Assignment 1
+- 1/28/24
+- Jupyter Notebook with Saved Output
