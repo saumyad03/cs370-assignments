@@ -1,3 +1,4 @@
 - Assignment 1
 - 1/28/24
 - Jupyter Notebook with Saved Output
+- **Note: I received an extension allowing me to submit the Part 1 of this assignment with Part 2 without any penalty. Please see ticket #0317 for more details.***
