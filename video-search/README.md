@@ -1,0 +1,3 @@
+Video Search
+- 3/3/24
+- For my submission, I have a Jupyter Notebook with saved code output. In order to run it, you'll need to download the notebook and downloader.py (API module) into the same directory. Then, you'll have to pip install all libraries used within both files. After that, you can run all the cells in order. I ran everything locally so that I didn't have to deal with complexities behind remote file storing.
