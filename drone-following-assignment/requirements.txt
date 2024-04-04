@@ -1,0 +1,7 @@
+jupyter
+torch
+numpy
+pytube
+opencv-python
+ultralytics
+ultralyticsplus

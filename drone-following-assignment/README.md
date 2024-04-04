@@ -1,0 +1,3 @@
+- Drone Following Assignment
+- 4/3/24
+- I have a Jupyter Notebook with saved code output. However, to run it locally, add Dockerfile, docker-compose.yaml, and requirements.txt to project directory. Also, create a ```notebooks``` directory within the project directory. Inside the ```notebooks``` directory add the Jupyter Notebook. Run ```docker-compose build``` followed by ```docker-compose up```. Visit the provided link that shows up when you execute the last command in your browser. Run the notebooks cells sequentially.
