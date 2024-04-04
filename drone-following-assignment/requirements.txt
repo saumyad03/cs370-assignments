@@ -5,3 +5,4 @@ pytube
 opencv-python
 ultralytics
 ultralyticsplus
+filterpy
