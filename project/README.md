@@ -20,3 +20,6 @@ Then, I created a basic Dockerfile and requirements.txt to set up my development
 <br>![alt text](image-3.png)<br>
 <br>![alt text](image-5.png)<br>
 <br>![alt text](image-6.png)<br>
+
+## Milestone 2 - 4/7/24
+Given the simplicity of working on Google Colab, I elected to complete this Milestone on there and downloaded the notebook with the output saved. To run it yourself, feel free to download the notebook and run the cells sequentially. However, I did get a chance to update my Docker files and will consider completing the rest of the assignment in a Docker-based environment. I watched [this video](https://www.youtube.com/watch?v=YHA_-QMB8_U&ab_channel=OpenGeospatialSolutions), then followed [the tutorial](https://samgeo.gishub.org/examples/automatic_mask_generator/) linked in the description in order to replicate the SAM implementation for satellite imagery. I also went through [this page](https://samgeo.gishub.org/) to learn more about the package being used.
